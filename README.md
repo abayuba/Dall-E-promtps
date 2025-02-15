@@ -19,3 +19,11 @@ Prompt API DALL-E:
 Prompt API DALL-E:
 
 "An ultra-realistic and majestic elephant standing confidently in the golden-hour sunlight of an African savanna. The elephant's skin is intricately detailed with deep wrinkles and textures, showcasing its rugged and weathered appearance. Its massive tusks are long, curved, and gleaming under the soft light, while its expressive eyes reflect wisdom and calmness. The elephant is surrounded by tall dry grass and acacia trees in the background, with a softly blurred horizon showing distant mountains and a warm orange-pink sky. The scene captures cinematic realism, emphasizing the grandeur and power of the elephant, with rich textures, vibrant colors, and meticulous attention to detail"
+
+......................................................................................................................................
+
+#  Harley Davison
+Prompt API DALL-E:
+
+
+"An ultra-realistic and stunning Harley-Davidson motorcycle, showcasing its iconic design with a sleek black frame, chrome accents, and a powerful V-twin engine. The bike is parked on a winding mountain road at sunset, surrounded by lush greenery and distant peaks bathed in warm golden-hour light. The motorcycle's details are meticulously rendered, including the leather seat, intricate exhaust pipes, and bold Harley-Davidson logo. The scene captures cinematic realism, emphasizing the rugged elegance and timeless appeal of the bike, with rich textures, vibrant colors, and meticulous attention to detail"
