@@ -13,4 +13,6 @@ PROMPT Platform DALL-E
 Prompt API DALL·E:
 
 "A decadent chocolate cake with a cross-section view revealing rich layers of moist dark chocolate sponge, creamy white filling, and caramel drizzle. Topped with fluffy white cream swirls, glossy chocolate ganache drips, and delicate chocolate curls. The cake sits on a white porcelain plate, surrounded by fresh mint leaves, cocoa powder dust, and scattered chocolate chips. It’s placed on a rustic wooden table under soft golden-hour lighting, with a blurred background of a cozy kitchen featuring marble countertops, copper utensils, and green plants. Hyper-realistic, cinematic, and indulgent"
+Leonardo_Kino_XL_A_decadent_and_mouthwatering_chocolate_cake_w_1.jpg
+
 
