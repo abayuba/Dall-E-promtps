@@ -1,4 +1,5 @@
 # api-dall-e-prompt
+# Chocolate Cake
 These prompts that we have developed are designed to be compatible with both the DALL·E platform and its API, as both use textual descriptions (prompts) to generate images. However, there are some key details to keep in mind when using it specifically with the DALL·E API:
 
 1. API Compatibility : The DALL·E API allows you to generate images from detailed prompts, and the level of detail included in the prompt ensures that the AI correctly interprets the desired scenario. For example, describing lighting, textures, and environment helps guide the model toward a more accurate output.
