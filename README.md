@@ -7,9 +7,6 @@ These prompts that we have developed are designed to be compatible with both the
 3. Using the API : To use this prompt with the DALL·E API, you can simply include it as part of the text parameter in the request. For example, in an API call, the prompt would be sent as the value of the prompt field in the JSON request.
 4. Additional Customization : If you wish to adjust the size or orientation of the image (e.g., portrait or landscape), you can specify this in the API request. This can be done by adding additional parameters such as size or orientation.
 
-PROMPT Platform DALL-E
-
-"A decadent and mouthwatering chocolate cake with a perfectly sliced cross-section that reveals multiple rich layers of dark chocolate sponge, creamy white filling, and a hint of caramel drizzle running through the layers. The cake is topped with generous swirls of fluffy white cream, glossy chocolate ganache drips cascading down the sides, and delicate chocolate curls scattered artistically on top. The texture of the chocolate sponge is moist and soft, while the cream is light and airy, creating a perfect contrast. The cake sits on an elegant white porcelain plate, placed on a rustic wooden table with warm tones. Surrounding the cake are small decorative elements like fresh mint leaves, cocoa powder dusted lightly over the plate, and a few scattered chocolate chips for added indulgence. The scene is illuminated by soft golden-hour lighting from a nearby window, casting gentle shadows and highlighting the luxurious textures of the cake. The background features a softly blurred kitchen setting with marble countertops, copper utensils hanging on the wall, and green potted plants to add warmth and depth. The overall aesthetic is hyper-realistic, cinematic, and irresistibly appetizing, evoking a sense of indulgence and luxury"
 
 Prompt API DALL·E:
 
